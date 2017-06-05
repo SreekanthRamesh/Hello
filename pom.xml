@@ -24,6 +24,7 @@
 	<properties>
 		<spring.version>4.2.4.RELEASE</spring.version>
 	</properties>
+	<build>
 <plugins>	
 	<plugin>
 				<groupId>io.fabric8</groupId>
@@ -42,4 +43,5 @@
 				</executions>
 			</plugin>
 	</plugins>
+	</build>
 </project>
